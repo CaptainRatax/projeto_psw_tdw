@@ -2,7 +2,7 @@
 
 Projeto final de PSW e TDW de 2020
 
-##Começar Backend
+## Começar Backend
 
 ```bash
 npm install
@@ -12,7 +12,7 @@ npm install
 node index
 ```
 
-##Começar Frontend
+## Começar Frontend
 
 ```bash
 npm install
